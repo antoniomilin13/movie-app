@@ -1,0 +1,21 @@
+# 🎬 Movie Explorer
+
+Welcome to **Movie Explorer** – a sleek and modern React-based web app that helps you discover trending movies and search for your favorites effortlessly.
+
+## 🔍 Features
+
+- 🔥 Browse **Trending Movies** (updated daily)
+- 🔎 **Search** any movie by name
+- 📊 See **movie ratings** (overall score)
+- 📝 View **detailed movie information**:
+  - Overview
+  - Release date
+  - Poster
+  - Vote average
+
+## 🛠️ Built With
+
+- React
+- Node.js
+- Tailwind
+- Appwrite
